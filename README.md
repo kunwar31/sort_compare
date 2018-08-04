@@ -1,2 +1,2 @@
-# sort_compare
-Run time complexity Comparison of various sorting algorithms
+## Comparison of Sorting algorithms
+Run time complexity comparison of various sorting algorithms
